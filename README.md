@@ -141,12 +141,21 @@ All documents are publicly available and included in accordance with their respe
 
 ---
 
-### **1. EU Artificial Intelligence Act**  
-Public document of the European Union.  
-Redistribution is allowed under EU Public Documents policy.
+### **1. European Union Artificial Intelligence Act (Regulation (EU) 2024/1689)**
+Public legal document of the European Union.
 
-**Source:** European Commission  
-**License:** Public Domain / EU Open Document Policy  
+**Source:** EUR-Lex, Official Journal of the European Union  
+**Link:** https://eur-lex.europa.eu  
+**License:** Public domain under EU Open Data Policy
+
+---
+
+### **2. Gobernar con la Inteligencia Artificial: panorama actual y hoja de ruta**
+© OECD. Licensed under Creative Commons Attribution 4.0 International (CC BY 4.0).
+
+**Source:** Organisation for Economic Co-operation and Development (OECD)  
+**License:** CC BY 4.0  
+**Attribution:** © OECD, licensed under CC BY 4.0.
 
 ---
 
@@ -186,6 +195,7 @@ Open-access content from the World Health Organization, redistributed with attri
 **Attribution:** © World Health Organization.  
 
 ---
+
 
 All rights remain with the original authors and institutions.  
 This repository uses these materials **solely for educational and experimental AI purposes**.
