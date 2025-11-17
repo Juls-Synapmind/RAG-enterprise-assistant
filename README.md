@@ -159,22 +159,11 @@ Public legal document of the European Union.
 
 ---
 
-### **2. NIST AI Risk Management Framework (AI RMF 1.0)**  
-Work of the U.S. Government.  
-Not subject to copyright protection.
+### **3. NIST AI Risk Management Framework (AI RMF 1.0)**
+A United States Government publication. Not subject to copyright.
 
 **Source:** National Institute of Standards and Technology (NIST)  
-**License:** Public Domain (U.S. Government Work)  
-
----
-
-### **3. OECD AI Principles**  
-© OECD. Licensed under **Creative Commons Attribution 4.0 International (CC BY 4.0)**.  
-You may share and adapt the work as long as attribution is provided.
-
-**Source:** Organisation for Economic Co-operation and Development (OECD)  
-**License:** CC BY 4.0  
-**Attribution:** © OECD, licensed under CC BY 4.0.  
+**License:** Public Domain (U.S. Government Work)
 
 ---
 
