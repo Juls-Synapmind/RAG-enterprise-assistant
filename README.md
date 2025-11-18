@@ -167,12 +167,12 @@ A United States Government publication. Not subject to copyright.
 
 ---
 
-### **4. UNESCO Recommendation on the Ethics of Artificial Intelligence**  
-Licensed under **Creative Commons BY-SA 3.0 IGO**.
+### **4. UNESCO – Recommendation on the Ethics of Artificial Intelligence**
+Licensed under Creative Commons Attribution-NonCommercial-ShareAlike 3.0 IGO (CC BY-NC-SA 3.0 IGO).
 
 **Source:** UNESCO  
-**License:** CC BY-SA 3.0 IGO  
-**Attribution:** © UNESCO.  
+**License:** CC BY-NC-SA 3.0 IGO  
+**Attribution:** © UNESCO. This material is shared for non-commercial, educational and research purposes.
 
 ---
 
